@@ -123,6 +123,82 @@ export const PRODUCTS: Product[] = [
     image:
       "https://images.unsplash.com/photo-1495385794356-15371f348c31?q=80&w=1200&auto=format&fit=crop",
   },
+  {
+    id: "trench-03",
+    name: "Trench No. 03",
+    detail: "Bonded cotton, storm flap",
+    price: 380,
+    category: "Women",
+    image:
+      "https://images.unsplash.com/photo-1520975954732-35dd22299614?q=80&w=1200&auto=format&fit=crop",
+    tag: "New",
+  },
+  {
+    id: "coat-07",
+    name: "Coat No. 07",
+    detail: "Double-faced wool wrap",
+    price: 340,
+    category: "Women",
+    image:
+      "https://images.unsplash.com/photo-1441986300917-64674bd600d8?q=80&w=1200&auto=format&fit=crop",
+  },
+  {
+    id: "sneaker-02",
+    name: "Sneaker No. 02",
+    detail: "Italian leather low-top",
+    price: 225,
+    category: "Men",
+    image:
+      "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?q=80&w=1200&auto=format&fit=crop",
+    tag: "Bestseller",
+  },
+  {
+    id: "sneaker-09",
+    name: "Sneaker No. 09",
+    detail: "Court classic, cream leather",
+    price: 185,
+    category: "Women",
+    image:
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?q=80&w=1200&auto=format&fit=crop",
+  },
+  {
+    id: "tee-11",
+    name: "Tee No. 11",
+    detail: "Heavyweight organic cotton",
+    price: 70,
+    category: "Men",
+    image:
+      "https://images.unsplash.com/photo-1562157873-818bc0726f68?q=80&w=1200&auto=format&fit=crop",
+  },
+  {
+    id: "rucksack",
+    name: "The Rucksack",
+    detail: "Waxed canvas, brass hardware",
+    price: 245,
+    category: "Accessories",
+    image:
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=1200&auto=format&fit=crop",
+    tag: "New",
+  },
+  {
+    id: "weekender",
+    name: "The Weekender",
+    detail: "Pebbled leather, 40L",
+    price: 290,
+    category: "Accessories",
+    image:
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?q=80&w=1200&auto=format&fit=crop",
+  },
+  {
+    id: "crossbody",
+    name: "The Crossbody",
+    detail: "Structured leather, gold hardware",
+    price: 175,
+    category: "Accessories",
+    image:
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?q=80&w=1200&auto=format&fit=crop",
+    tag: "Limited",
+  },
 ];
 
 export const CATEGORY_IMAGES: Record<Category, string> = {
